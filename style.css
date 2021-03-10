@@ -1,29 +1,19 @@
-div {
-  width: 500px;
-  height: 500px;
-
-  background: #333333;
+body {
+	margin: 20px 50px;
 }
 
-#main {
-  color: white; /*+*/
-  width: 750px; /*+*/
+h1 {
+	font-size: 40px;
+	color: green;
+	text-align: center;
 }
 
-.text-white {
-  color: white;
+h2 {
+	font-size: 20px;
+	color: grey;
+	font-style: italic;
+	padding-left: 50px;
 }
-
-.alert {
-  height: 350px; /*+*/
-  color: gray;
-}
-
-div {
-  background: blue;
-}
-
-.alert-warning {
-  background: #000000; /*+*/
-  color: yellow;
+p {
+	margin-bottom: 50px;
 }
